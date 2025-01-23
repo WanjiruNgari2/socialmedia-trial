@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(207, 123, 54);
+}
+
+
+div{
+    margin: 30px;
+}
+
+img{
+    color: aqua;
+    border-radius: 40%;
+}
+
+h2, h3{
+    color: blue;
+    padding: 0%;
+
+}
+
+p{
+        background: #35d13d;
+        margin: 5px 0;
+        padding: 10px;
+        border-radius: 5px;
+}

@@ -1,10 +1,12 @@
 body{
-    background-color: rgb(207, 123, 54);
+    background-color: rgb(207, 37, 37);
+    
 }
 
 
 div{
     margin: 30px;
+    display:inline-block;
 }
 
 img{
